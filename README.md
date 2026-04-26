@@ -310,7 +310,7 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">結果一覧へのリンク貼ります、↓文字のクリックでリンク先に飛びます</span></h2>
-<h2><a href="https://tdsystem.co.jp/ProList.php?Y=2026&G=0&GL=1&M=4&G=50" target="_blank"><span class="snow">結果一覧への・リンク</span></a></h2>
+<h2><a href="https://tdsystem.co.jp/ProList.php?Y=2026&G=0&GL=1&M=4&G=50" target="_blank"><span class="blue">結果一覧への・リンク</span></a></h2>
 
 
 <!--
